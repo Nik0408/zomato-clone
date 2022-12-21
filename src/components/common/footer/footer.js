@@ -3,7 +3,7 @@ import "./footer.css";
 
 const Footer = () => {
   return (
-    <div>Made with 🔥 by overreacted</div>
+    <div className='absolute-center'>Made with 🔥 by overreacted</div>
   )
 }
 
